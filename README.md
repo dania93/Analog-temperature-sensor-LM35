@@ -35,23 +35,14 @@ See the Getting Started Guide for full steps to configure and use ESP-IDF to bui
 
 Running this example, you will see the following log output on the serial monitor:
 
-```
-I (304) ADC_ONESHOT: calibration scheme version is Curve Fitting
-I (304) ADC_ONESHOT: calibration scheme version is Curve Fitting
-I (314) ADC_ONESHOT: ADC1 Channel[2] Raw Data: 0
-I (314) ADC_ONESHOT: ADC1 Channel[2] Cali Voltage: 0 mV
-I (1324) ADC_ONESHOT: ADC1 Channel[3] Raw Data: 664
-I (1324) ADC_ONESHOT: ADC1 Channel[3] Cali Voltage: 559 mV
-I (2324) ADC_ONESHOT: ADC2 Channel[0] Raw Data: 580
-I (2324) ADC_ONESHOT: ADC2 Channel[0] Cali Voltage: 498 mV
-I (3324) ADC_ONESHOT: ADC1 Channel[2] Raw Data: 0
-I (3324) ADC_ONESHOT: ADC1 Channel[2] Cali Voltage: 0 mV
-I (4324) ADC_ONESHOT: ADC1 Channel[3] Raw Data: 666
-I (4324) ADC_ONESHOT: ADC1 Channel[3] Cali Voltage: 561 mV
-I (5324) ADC_ONESHOT: ADC2 Channel[0] Raw Data: 575
-I (5324) ADC_ONESHOT: ADC2 Channel[0] Cali Voltage: 495 mV
-...
-```
+![зображення](https://github.com/dania93/Analog-temperature-sensor-LM35/assets/41265108/a2df18a6-1ec3-4cd8-a359-9662fc12c1f7)
+
+
+
+Setup example:
+
+![зображення](https://github.com/dania93/Analog-temperature-sensor-LM35/assets/41265108/661b5a43-b207-4077-bb8f-c34445a7051d)
+
 
 ## Troubleshooting
 
